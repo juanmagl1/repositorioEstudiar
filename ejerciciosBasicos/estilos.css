@@ -1,0 +1,15 @@
+.gallery{
+    width: 320px;
+    height: 400px;
+}
+.gallery__item{
+    float: left;
+    margin: 0.3em;
+    width: 90px;
+    height: 50px;
+    border-style: groove;
+    text-align: center;
+}
+.pulsa{
+    background-color: green;
+}

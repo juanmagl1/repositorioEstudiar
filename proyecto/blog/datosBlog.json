@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "My Second post",
+      "authorId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Joaquin Delhom",
+      "nick": "joadelvia"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "nombre": "pedro",
+      "nick": "peter",
+      "id": 7
+    },
+    {
+      "nombre": "pedro",
+      "nick": "pedddd",
+      "id": 8
+    }
+  ],
+  "comments": {
+    "id": 1,
+    "content": "bla,bla,bla",
+    "authorId": 1,
+    "postId": 1
+  }
+}
